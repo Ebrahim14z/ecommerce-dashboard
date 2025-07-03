@@ -19,13 +19,13 @@ The goal of this project is to analyze e-commerce sales data to identify key bus
 ## 📁 Folder Structure
 
 ```
-Ecommerce-Sales-Analysis/
-│
-├── Ecommerce_Sales_Data.csv         ← Main dataset
-├── Ecommerce_Analysis.ipynb         ← Jupyter notebook with full analysis
-├── README.md                        ← Project documentation
-├── plots/                           ← Saved visualizations
-└── PowerBI_Dashboard.pbix           ← Power BI file (optional)
+
+
+Ecommerce-Dashboard/
+├── data/
+├── README.md
+├── analysis.ipynb
+└── E_commerce Dashbored.pbix
 ```
 
 ---
@@ -62,7 +62,7 @@ Ecommerce-Sales-Analysis/
 
 **Ebrahim Mohamed**  
 Aspiring Data Analyst | Python & Power BI Enthusiast  
-[LinkedIn Profile (optional)](https://www.linkedin.com/in/yourname)
+[LinkedIn Profile](https://www.linkedin.com/in/Ebrahim14z)
 
 ---
 
