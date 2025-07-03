@@ -62,7 +62,7 @@ Ecommerce-Dashboard/
 
 **Ebrahim Mohamed**  
 Aspiring Data Analyst | Python & Power BI Enthusiast  
-[Github Profile](https://www.Github.com/in/Ebrahim14z)
+[LinkedIn Profile](https://www.linkedin.com/feed/)
 
 ---
 
