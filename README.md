@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-commerce Sales Analysis
 
 This project provides a full data analysis of e-commerce sales using Python and Power BI.
@@ -66,3 +67,7 @@ Aspiring Data Analyst | Python & Power BI Enthusiast
 ---
 
 📎 *For any questions, feel free to contact me via GitHub or LinkedIn.*
+=======
+# ecommerce-dashboard
+Power BI &amp; Python Project for E-commerce Sales Analysis
+>>>>>>> f59a9628a35f1c790a53ef52fcf71ac704a54f66
